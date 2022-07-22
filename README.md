@@ -30,6 +30,8 @@
   
 ***    
   ## 일지
+  > 안드로이드 스튜디오와 파이어베이스를 이용한 SNS 어플을 구현합니다.
+  > 안드로이드 스튜디오로 결과물을 
 ---  
 🔍참고  
 * youtube : ["Bored Developer"](https://www.youtube.com/watch?v=IQscykPBCC4&list=PLQAhd9lzs3ycyGhmQhXaKNYcCQn_28Ems,"dd")
