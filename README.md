@@ -14,4 +14,6 @@
 
 
 ---  
-참고 : youtube https://www.youtube.com/watch?v=IQscykPBCC4&list=PLQAhd9lzs3ycyGhmQhXaKNYcCQn_28Ems
+참고 : youtube Bored Developer(https://www.youtube.com/watch?v=IQscykPBCC4&list=PLQAhd9lzs3ycyGhmQhXaKNYcCQn_28Ems,"dd")
+
+youtube https://www.youtube.com/watch?v=IQscykPBCC4&list=PLQAhd9lzs3ycyGhmQhXaKNYcCQn_28Ems
